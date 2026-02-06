@@ -15,5 +15,5 @@ This program allows you to **add, view, and delete tasks** directly from the com
 1. Clone the repository or download the files:
 
 ```bash
-  git clone https://github.com/your-username/console-to-do-list.git
+  git clone https://github.com/tarann057/console-to-do-list.git
   cd console-to-do-list
