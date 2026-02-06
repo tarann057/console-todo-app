@@ -1,19 +1,28 @@
-# Console To-Do List
+# TODO List
 
-A simple **console-based to-do list application** written in Python.  
-This program allows you to **add, view, and delete tasks** directly from the command line.
+A simple **TODO List** built with **Python**.  
+Manage your tasks by adding, listing, and deleting them via **command-line menu** or **FastAPI REST API**.
+
+---
 
 ## Features
 
-- Add new tasks to your to-do list
-- View all tasks
-- Delete completed or unwanted tasks
-- Simple and easy-to-use console interface
+- Add tasks
+- List all tasks
+- Delete tasks by ID
+- In-memory storage (tasks are lost on restart)
+- Works via CLI menu or API
 
-## How to Run
+---
 
-1. Clone the repository or download the files:
+## Requirements
+
+- Python 3.10+
+- FastAPI
+- Uvicorn  
+
+Install dependencies:
 
 ```bash
-  git clone https://github.com/your-username/console-to-do-list.git
-  cd console-to-do-list
+pip install -r requirements.txt
+
