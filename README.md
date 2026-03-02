@@ -10,7 +10,7 @@ Manage your tasks by adding, listing, and deleting them via **command-line menu*
 - Add tasks
 - List all tasks
 - Delete tasks by ID
-- In-memory storage (tasks are lost on restart)
+- In-memory storage 
 - Works via CLI menu or API
 
 ---
@@ -24,5 +24,5 @@ Manage your tasks by adding, listing, and deleting them via **command-line menu*
 Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+  pip install -r requirements.txt
 

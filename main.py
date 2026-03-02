@@ -1,4 +1,4 @@
-from tasks import add_task, get_tasks, delete_task
+from crud import add_task, get_tasks
 
 def show_tasks():
     tasks = get_tasks()

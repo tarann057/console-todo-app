@@ -1,5 +1,5 @@
 from fastapi import FastAPI, HTTPException
-from tasks import add_task, get_tasks, delete_task
+from crud import add_task, get_tasks, delete_task
 
 app = FastAPI()
 
