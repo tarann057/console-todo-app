@@ -19,7 +19,8 @@ Manage your tasks by adding, listing, and deleting them via **command-line menu*
 
 - Python 3.10+
 - FastAPI
-- Uvicorn  
+- Uvicorn 
+- Sqlalchemy
 
 Install dependencies:
 
